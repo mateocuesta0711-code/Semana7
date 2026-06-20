@@ -1,0 +1,6 @@
+Es importante que las comunidades puedan registrar reportes e incidencias en una plataforma tecnológica porque esto garantiza orden y transparencia en la gestión de la información. 
+Al contar con un sistema digital, los reportes quedan documentados con fecha, lugar y descripción, lo que facilita su análisis y seguimiento.
+ Además, la posibilidad de consultar registros permite que los ciudadanos verifiquen el estado de sus denuncias y que las autoridades actúen con mayor rapidez.
+La trazabilidad fortalece la confianza, ya que cada acción queda registrada y se evita la pérdida de datos. 
+También se fomenta la participación comunitaria, pues los usuarios saben que sus aportes tienen impacto real. 
+Finalmente, al integrar estas funciones en una plataforma, se promueve la colaboración, la transparencia y la construcción de soluciones colectivas frente a los problemas locales.
